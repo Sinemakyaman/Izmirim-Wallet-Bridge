@@ -1,0 +1,2 @@
+# Standart kütüphaneler kullanılmıştır.
+python>=3.8
